@@ -1,0 +1,15 @@
+body {
+  font-family: Arial;
+  width: 300px;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.site {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
